@@ -1,2 +1,1 @@
-This line is from first.txt file!
 This line is from second.txt file!
