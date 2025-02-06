@@ -1,0 +1,1 @@
+Hey this line added to test.txt file using writeFileSync method
